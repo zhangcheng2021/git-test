@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("git4");
         System.out.println("gitpush");
         System.out.println("gitpushssh");
+        System.out.println("pull");
     }
 }
