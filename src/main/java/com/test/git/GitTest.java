@@ -1,0 +1,12 @@
+package com.test.git;
+
+/**
+ * @author zhc
+ * 2021-08-25 14:11
+ */
+public class GitTest {
+
+    public static void main(String[] args) {
+        System.out.println("git");
+    }
+}
